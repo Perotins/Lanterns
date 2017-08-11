@@ -1,0 +1,9 @@
+name: Lantern
+main: me.perotin.lanterns.LanternMain
+version: 1.0
+author: Perotin
+commands:
+   lantern:
+      usage: /lantern
+   lanternreload:
+      usage: /lanternreload

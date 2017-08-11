@@ -1,0 +1,26 @@
+# Laterns v1.0
+
+# Hello and welcome to the configuration file for Lanterns!
+
+# item to use when the lantern is off
+off-lantern: "RECORD_11"
+
+# item to use when the lantern is on
+on-lantern: "END_ROD"
+
+
+# doesn't allow player to drop a lanterns
+undroppable: false
+
+# doesn't allow player to place a lantern
+unplaceable: true
+
+# doesn't allow player to break a lantern
+unbreakable: true
+
+no-permission: "&8[&eLanterns&8] &cNo permission to do '/lantern'!"
+could-not-find: "&8[&eLanterns&8] &cCould not find $player$!"
+
+lantern-name: "Lantern"
+got-lantern: "&8[&eLanterns&8] &7You have received a lantern!"
+
